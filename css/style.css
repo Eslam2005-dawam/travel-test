@@ -9,6 +9,7 @@ body{
     font-family: "Poppins", sans-serif;
 }
 html{
+    scroll-behavior: smooth;
     font-size: 62.5%;
 }
 h1{
@@ -101,7 +102,7 @@ button:hover{
     transition: 0.7s ease-in-out;
 }
 .hero button:hover{
-    background-color: rgba(39, 57, 78, 1);
+    background-color: rgb(12, 34, 59);
     transform: scale(1.1);
 }
 
